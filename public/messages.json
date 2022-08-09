@@ -1,0 +1,93 @@
+[
+    {   
+        "_id": 1,
+        "name": "Mary W. Davis",
+        "username": "Wernionsinks",
+        "img":"https://freepngimg.com/thumb/emoji/77530-emoticon-thinking-thought-world-whatsapp-day-emoji.png",
+        "time": "3.32pm",
+        "messages": "Lets catch upover dinner at around 5pm?",
+        "message_amount": 4,
+        "favorite": "1"
+    },
+    {   
+        "_id": 2,
+        "name": "Dianne H. Will",
+        "username": "Suffiever",
+        "img":"https://freepngimg.com/thumb/emoji/65053-emoticon-play-google-angry-emojiworld-sadness-emoji.png",
+        "time": "3.32pm",
+        "messages": "Where have you been?",
+        "message_amount": 4
+    },
+    {   
+        "_id": 3,
+        "name": "Mable H. Daley",
+        "username": "Trofter",
+        "img":"https://freepngimg.com/thumb/emoji/47433-4-smiley-png-download-free.png",
+        "time": "3.32pm",
+        "messages": "Nope",
+        "message_amount": 4
+    },
+    {   
+        "_id": 4,
+        "name": "Ruth E. Conrad",
+        "username": "Reque2022",
+        "img":"https://freepngimg.com/thumb/emoji/58616-emoticon-angry-anger-emojis-sticker-emoji.png",
+        "time": "3.32pm",
+        "messages": "Okay",
+        "your_turn": "your turn"
+    },
+    {   
+        "_id": 5,
+        "name": "Elbert D. Davis",
+        "username": "Pridge86",
+        "img":"https://freepngimg.com/thumb/emoji/47418-4-smiley-free-clipart-hd.png",
+        "time": "3.32pm",
+        "messages": "Lets catch upover dinner at around 5pm?",
+        "message_amount": 4
+    },
+    {   
+        "_id": 6,
+        "name": "Jennifer R. Goodwin",
+        "username": "FounsBin",
+        "img":"https://freepngimg.com/thumb/emoji/65064-emoticon-of-smiley-face-tears-joy-with.png",
+        "time": "3.32pm",
+        "messages": "Lets catch upover dinner at around 5pm?",
+        "message_amount": 4
+    },
+    {   
+        "_id": 7,
+        "name": "James T. Cathey",
+        "username": "Vichimen",
+        "img":"https://freepngimg.com/thumb/emoji/47428-7-smiley-picture-free-photo-png.png",
+        "time": "3.32pm",
+        "messages": "Lets catch upover dinner at around 5pm?",
+        "message_amount": 4
+    },
+    {   
+        "_id": 8,
+        "name": "Annabel M. Hernandez",
+        "username": "Therese",
+        "img":"https://freepngimg.com/thumb/emoji/73743-emoticon-anger-whatsapp-smiley-emoji-free-png-hq.png",
+        "time": "3.32pm",
+        "messages": "Lets catch upover dinner at around 5pm?",
+        "message_amount": 4
+    },
+    {   
+        "_id": 9,
+        "name": "Todd L. Dion",
+        "username": "Plethell",
+        "img":"https://freepngimg.com/thumb/emoji/64942-emoticon-flirty-smiley-love-flirting-emoji.png",
+        "time": "3.32pm",
+        "messages": "Lets catch upover dinner at around 5pm?",
+        "message_amount": 4
+    },
+    {   
+        "_id": 10,
+        "name": "Amy B. Arrington",
+        "username": "Heregailing",
+        "img":"https://freepngimg.com/thumb/emoji/73710-emoticon-smiley-emoji-png-file-hd.png",
+        "time": "3.32pm",
+        "messages": "Lets catch upover dinner at around 5pm?",
+        "message_amount": 4
+    }
+]
